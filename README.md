@@ -6,7 +6,7 @@ SkyCast is a simple yet powerful weather application for Android devices that pr
 <h3>App logo</h3>
 <img src="https://github.com/tonima26122004/SkyCast/assets/113163028/9eff9086-464a-4367-af4f-55f92eaf7ce8" alt="app" width="240" height="240">
 <h3>App View</h3>
-<img src="https://github.com/tonima26122004/SkyCast/assets/113163028/9e90d049-6d53-4673-aee7-f217eddc1227" alt="app" width="360" height="640">
+<img src="https://github.com/tonima26122004/SkyCast/assets/113163028/9e90d049-6d53-4673-aee7-f217eddc1227" alt="app" width="300" height="640">
 
 
 
