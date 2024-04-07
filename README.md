@@ -52,10 +52,10 @@ Contributions are welcome! If you'd like to contribute to SkyCast, please fork t
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 **Credits:**
-SkyCast Weather App is developed by Tonima Das and is inspired by the wonderful work of the Android developer community.
+SkyCast Weather App is developed by **Tonima Das** and is inspired by the wonderful work of the Android developer community.
 
 **Contact:**
-For any queries or feedback, please contact tonimadas348@gmail.com 
+For any queries or feedback, please contact **tonimadas348@gmail.com**
 
 **Acknowledgments:**
 Special thanks to OpenWeatherMap for providing the weather data API and to the developers of Material Design, Picasso, and Volley for their excellent libraries.
