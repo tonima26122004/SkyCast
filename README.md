@@ -1,4 +1,4 @@
-<h1>**SkyCast Weather App**</h1>
+<h1>SkyCast Weather App</h1>
 
 **Overview:**
 SkyCast is a simple yet powerful weather application for Android devices that provides users with accurate weather forecasts. It utilizes the OpenWeatherMap API to fetch weather data and displays it in an intuitive and user-friendly interface following Material Design principles
