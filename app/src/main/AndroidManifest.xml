@@ -8,9 +8,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/weather"
-        android:label="@string/app_name"
-        android:roundIcon="@drawable/weather"
+        android:icon="@drawable/skycast"
+        android:label="SkyCast"
+        android:roundIcon="@drawable/skycast"
         android:supportsRtl="true"
         android:theme="@style/Theme.Weather"
         android:usesCleartextTraffic="true">
